@@ -3,6 +3,10 @@ title: 'My first dose of Antidote!'
 author: 'Loki'
 pubDatetime: 2026-07-15T05:17:19Z
 description: How a champion fell!
+draft: false
+tags:
+    - MMA
+    
 ---
 
 # The Cost of Over-Identifying With Your Strengths!
