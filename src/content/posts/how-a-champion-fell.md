@@ -1,7 +1,7 @@
 ---
 title: 'My first dose of Antidote!'
 author: 'Loki'
-pubDatetime: 2026-07-17T05:17:19Z
+pubDatetime: 2026-07-15T05:17:19Z
 description: How a champion fell!
 ---
 
