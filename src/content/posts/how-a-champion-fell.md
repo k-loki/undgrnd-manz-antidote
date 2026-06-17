@@ -1,8 +1,8 @@
 ---
-title: 'My first dose of Antidote!'
+title: 'How a champion fell'
 author: 'Loki'
 pubDatetime: 2026-06-15T05:17:19Z
-description: How a champion fell!
+description: What happens when a champion becomes too attached to the path that made him great?
 draft: false
 tags:
     - MMA

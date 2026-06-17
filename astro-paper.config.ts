@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://k-loki.github.io/undgrnd-manz-antidote/", // Your deployed GitHub Pages URL
-    title: "The Antidote", 
+    title: "Antidote", 
     description: "Thoughts on strategy, systems, and survival.",
     author: "Loki",
     profile: "https://github.com/k-loki",
