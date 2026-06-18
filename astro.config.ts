@@ -21,7 +21,7 @@ import config from "./astro-paper.config";
 
 export default defineConfig({
   site: 'https://k-loki.github.io',
-  base: '/undgrnd-manz-antidote',
+  // base: '/undgrnd-manz-antidote',
   integrations: [
     mdx(),
     sitemap({
